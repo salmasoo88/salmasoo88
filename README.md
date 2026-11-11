@@ -1,42 +1,52 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Salma Soofiyan - Cybersecurity, AI and Blockchain Security" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Salma Soofiyan — cybersecurity, AI and smart contract security" width="100%" />
 </p>
 
-<div align="center">
+<p align="center">
+  <strong>Lecturer and researcher at the University of East London</strong><br />
+  Smart contract security · Applied machine learning · FinTech risk
+</p>
 
-### Building secure, intelligent, and trustworthy digital systems
+<p align="center">
+  <a href="https://www.linkedin.com/in/salma-soofiyan-92033011b/">LinkedIn</a> ·
+  <a href="mailto:salma.soofiyan@gmail.com">Email</a> ·
+  <a href="https://github.com/salmasoo88?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/salmasoo88?tab=overview#contribution-activity">GitHub activity</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-soofiyan-92033011b/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salma.soofiyan@gmail.com)
-[![Location](https://img.shields.io/badge/Location-London%2C_UK-243B65?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+I study how to detect vulnerabilities in Ethereum smart contracts and how to turn those findings into deployment decisions. I also teach and supervise postgraduate research in cybersecurity, AI, data science and blockchain.
 
-</div>
+## Research in focus
 
----
+| Focus | What I work on |
+| :--- | :--- |
+| **Smart contract security** | Static, semantic and structural analysis of Ethereum contracts, and policy checks before deployment |
+| **AI for cybersecurity** | Machine learning for anomaly, intrusion and fraud detection, with an emphasis on evaluation and explainability |
+| **Blockchain and FinTech** | Oracle reliability, lending risk and governance controls in decentralised finance |
 
-## About Me
+## Selected publications
 
-I am a **Cybersecurity, Artificial Intelligence, and Machine Learning researcher and lecturer** based in London. My research focuses on applying intelligent methods to real-world security challenges, particularly **Ethereum smart contract vulnerability detection**, blockchain risk analysis, anomaly and intrusion detection, fraud detection, and secure access-control systems.
+- **Ethereum smart contracts: a hierarchical analysis of vulnerability challenges and mitigation strategies** · *Cluster Computing*, 2025. [Read the article](https://doi.org/10.1007/s10586-025-05173-8)
+- **Beyond Detection: Policy-Driven Dynamic Deployment Gating for Smart Contracts** · Conference contribution, 2026.
+- **Enhancing Smart Contract Security: Static Heuristics and CodeBERT Embeddings** · Conference paper, 2025.
 
-My work spans the full research and development lifecycle: from data preparation and machine learning model design to empirical evaluation, EVM-based smart contract testing, academic publishing, and postgraduate supervision. I am especially interested in building digital systems that are **secure, resilient, explainable, and trustworthy by design**.
+<details>
+<summary><strong>More publications and manuscripts</strong></summary>
 
-- 🔐 Researching AI-driven cybersecurity and smart contract security
-- ⛓️ Analysing Ethereum and EVM-based vulnerabilities
-- 🤖 Building models for anomaly, intrusion, and fraud detection
-- 🎓 Teaching and supervising postgraduate research in AI, data science, cybersecurity, and blockchain
-- 🌱 Exploring trustworthy AI and policy-driven security controls for FinTech
+- **S3-Guard: Semantic, Static, and Structural Guard for Smart Contracts** · *IET Blockchain*, forthcoming.
+- **Uncertainty-Certified Economic Control for Smart Contract Deployment** · Under review.
+- **Innovative Health Technology Assessment Tools** · *Medical Oncology Compendium*, Elsevier, 2025.
 
-## Research Focus
+</details>
 
-| Area | Current interests |
-|---|---|
-| **Smart Contract Security** | Vulnerability detection, mitigation, static analysis, deployment gating |
-| **AI for Cybersecurity** | Intelligent threat identification, risk analysis, trustworthy AI |
-| **Network Security** | Anomaly detection, intrusion detection, secure access control |
-| **Blockchain & FinTech** | Ethereum, EVM security, decentralised systems, financial security |
-| **Applied Machine Learning** | Predictive modelling, empirical evaluation, explainability |
+## Current research
 
-## Tech Stack
+- **Smart contract deployment gating** · Studying how explicit security policies can use vulnerability findings to guide release decisions.
+- **DeFi lending stress tests** · Studying how oracle delays, governance timing and market depth affect simulated lending risk.
+- **Security evaluation** · Reassessing how evaluation design and data choices affect vulnerability detection results.
+
+<details>
+<summary><strong>Tools and methods</strong></summary>
 
 ### Languages
 
@@ -58,23 +68,17 @@ My work spans the full research and development lifecycle: from data preparation
 ![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
 
-## Experience Snapshot
+</details>
+
+<details>
+<summary><strong>Teaching, experience and education</strong></summary>
 
 - **AI & Machine Learning Researcher / Lecturer** — University of East London, 2021–Present
 - **Web Developer** — University of East London, 2021–2023
 - **Lecturer** — Payam-E-Noor University & University of Elmi Karbordi, 2015–2019
 - **Volunteer Instructor** — Behzisti Welfare Organization, 2013–2015
 
-## Selected Research & Publications
-
-- **Ethereum Smart Contracts: A Hierarchical Analysis of Vulnerability Challenges and Mitigation Strategies** — *Cluster Computing, Springer Nature (2025)*
-- **S3-Guard: Semantic, Static, and Structural Guard for Smart Contracts** — *IET Blockchain, forthcoming*
-- **Enhancing Smart Contract Security: Static Heuristics and CodeBERT Embeddings** — *Conference paper (2025)*
-- **Beyond Detection: Policy-Driven Dynamic Deployment Gating for Smart Contracts** — *Conference paper (2026)*
-- **Uncertainty-Certified Economic Control for Smart Contract Deployment** — *Under review*
-- **Innovative Health Technology Assessment Tools** — *Medical Oncology Compendium, Elsevier (2025)*
-
-## Education
+### Education
 
 - **PhD in Computer Science** — University of East London, 2023–2026  
   *AI-driven cybersecurity, Ethereum smart contract vulnerability detection, and blockchain security*
@@ -82,7 +86,10 @@ My work spans the full research and development lifecycle: from data preparation
 - **MSc in Mechatronics Engineering** — Islamic Azad University of Tehran, 2012–2015
 - **BSc in Electrical & Electronics Engineering** — Islamic Azad University of Tehran, 2007–2011
 
-## Highlights
+</details>
+
+<details>
+<summary><strong>Speaking, awards and certifications</strong></summary>
 
 - 🏆 Outstanding Long Service Award — University of East London
 - 🎤 Invited international speaker — 23rd Brazilian Congress of Cancerology
@@ -91,12 +98,4 @@ My work spans the full research and development lifecycle: from data preparation
 - ☁️ Microsoft Certified: **Azure AI Fundamentals**
 - 🔗 Completed the **Chainlink Smart Contracts / Web3 Bootcamp**
 
----
-
-<div align="center">
-
-### Let's build secure, resilient, and trustworthy technology.
-
-📫 **[Email](mailto:salma.soofiyan@gmail.com)** · 💼 **[LinkedIn](https://www.linkedin.com/in/salma-soofiyan-92033011b/)**
-
-</div>
+</details>
