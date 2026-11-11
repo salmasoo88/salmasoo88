@@ -16,6 +16,20 @@
 
 I study how to detect vulnerabilities in Ethereum smart contracts and how to turn those findings into deployment decisions. I also teach and supervise postgraduate research in cybersecurity, AI, data science and blockchain.
 
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/salmasoo88?tab=overview#contribution-activity">
+    <img width="490" src="https://github-readme-stats-fast.vercel.app/api?username=salmasoo88&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=071426&amp;title_color=35E0FF&amp;text_color=DCEAFF&amp;icon_color=A78BFA&amp;border_color=294B73" alt="Live GitHub stats for Salma Soofiyan, including stars, commits, pull requests and issues" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/salmasoo88?tab=overview#contribution-activity">
+    <img width="790" src="https://ghchart.rshah.org/35e0ff/salmasoo88" alt="GitHub contribution calendar for Salma Soofiyan" />
+  </a>
+</p>
+
 ## Research in focus
 
 | Focus | What I work on |
